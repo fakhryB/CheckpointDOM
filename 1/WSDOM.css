@@ -1,0 +1,74 @@
+#nike_logo{
+    width: 200px;
+}
+.Cimg{
+width: 50px;
+}
+#imgnike{
+    width: 310px;
+    height: 500px;
+ 
+}
+
+
+.card{
+    display: flex;
+    align-items: center;
+}
+
+.Dcard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.plusCard{
+    width: 205px;
+    display: flex;
+    justify-content: space-around;
+    margin: 35px;
+}
+#pc{
+    display: flex;
+    align-items: center;
+}
+
+span{
+    font-size: 39px;
+}
+
+button{
+    border-style: none;
+    background-color: white;
+}
+
+.nikeCards{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: 184px;
+    margin-top: 36px;
+    background-color: mistyrose;
+    border-radius: 39px;
+}
+h1{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.heart {
+    font-size: 100px;
+    color: black;
+    cursor: pointer;
+    user-select: none;
+}
+.Heart {
+    border-style: none;
+    background-color: white;
+}
+
+.heartImage {
+    width: 50px;
+    height: 50px;
+}
+
